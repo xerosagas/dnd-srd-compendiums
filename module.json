@@ -72,28 +72,6 @@
             }
         },
         {
-            "name": "items",
-            "label": "Items (SRD)",
-            "system": "dnd5e",
-            "path": "packs/items",
-            "type": "Item",
-            "private": false,
-            "flags": {
-                "dnd5e": {
-                    "sourceBook": "SRD 5.1",
-                    "types": [
-                        "weapon",
-                        "equipment",
-                        "consumable",
-                        "tool",
-                        "loot",
-                        "feat",
-                        "container"
-                    ]
-                }
-            }
-        },
-        {
             "name": "tradegoods",
             "label": "Trade Goods (SRD)",
             "system": "dnd5e",
