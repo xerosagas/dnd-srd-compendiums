@@ -1,8 +1,8 @@
 {
-    "id": "dandd-52-srd",
-    "title": "D&D 5.2 SRD",
+    "id": "dnd-srd-compendiums",
+    "title": "D&D SRD Compendiums",
     "version": "1.0.0",
-    "name": "dandd-52-srd",
+    "name": "dnd-srd-compendiums",
     "description": "",
     "library": "false",
     "manifestPlusVersion": "1.2.0",
@@ -15,9 +15,9 @@
     },
     "authors": [
         {
-            "name": "The League of Extraordinary FVTT Developers",
-            "url": "https://github.com/League-of-Foundry-Developers",
-            "discord": "discordID#0001"
+            "name": "Dragonzaka",
+            "url": "https://github.com/xerosagas",
+            "discord": "Dragonzaka#0000"
         }
     ],
     "relationships": {
