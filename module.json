@@ -1,9 +1,9 @@
 {
     "id": "dnd-srd-compendiums",
     "title": "D&D SRD Compendiums",
-    "version": "1.0.0",
+    "version": "#{VERSION}#",
     "name": "dnd-srd-compendiums",
-    "description": "",
+    "description": "A simple module that provides the D&D 5e SRD Compendiums for Foundry VTT.",
     "library": "false",
     "manifestPlusVersion": "1.2.0",
     "minimumCoreVersion": "10",
